@@ -2,7 +2,7 @@
 
 A data warehouse built in **SQL Server** that consolidates sales data from two source systems (CRM and ERP) into a clean star schema ready for analytics.
 
-> **Credit:** This project follows along with [Data With Baraa](LINK-TO-THE-ORIGINAL-PROJECT)'s SQL Data Warehouse project. I had no prior data warehousing experience and built it to strengthen my SQL skills and step into data engineering. The architecture and datasets come from that project; this repo is my own build-along, with my own notes and what I learned along the way.
+> **Credit:** This project follows along with Data With Baraa's SQL Data Warehouse project. I had no prior data warehousing experience and built it to strengthen my SQL skills and step into data engineering. The architecture and datasets come from that project; this repo is my own build-along, with my own notes and what I learned along the way.
 
 ## Project Status
 
