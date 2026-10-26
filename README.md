@@ -48,7 +48,7 @@ Scope is the latest data only. Historization (slowly changing dimensions) was ou
 |--------|-------------|
 | `customer_key` | Surrogate key |
 | `customer_id` | Numeric customer ID |
-| `customer_name` | Alphanumeric customer code from the source system |
+| `customer_key` | Alphanumeric customer code from the source system |
 | `first_name`, `last_name` | Customer name |
 | `country` | Country of residence |
 | `marital_status`, `gender` | Standardized demographics |
