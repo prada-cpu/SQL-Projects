@@ -151,5 +151,6 @@ BEGIN
 		PRINT 'Error Message' + CAST (ERROR_NUMBER() AS NVARCHAR);
 		PRINT 'Error Message' + CAST (ERROR_STATE() AS NVARCHAR);
 		PRINT '==================================================='
+		Throw;
 	END CATCH
 END
